@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Runescape wiki DarkMode
+// @name          Runescape wiki DarkMode wikia edition
 // @namespace     https://github.com/CephHunter
 // @description	  A dark theme for the Runescape wiki
 // @author        CephHunter

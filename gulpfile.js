@@ -29,7 +29,7 @@ gulp.task('dev', function() {
     var footerMsg = "\n}";
     var headerMsg = 
         `/* ==UserStyle==
-        @name           dev Wiki darkmode
+        @name           dev Wiki darkmode wikia edition
         @description    Developer stylesheet for the RuneScape Wiki darkmode
         @namespace      https://github.com/CephHunter
         @version        ${pkg.version}
@@ -73,7 +73,7 @@ gulp.task('clean', function() {
     var cssFooterMsg = "\n}";
     var cssHeaderMsg = 
         `/* ==UserStyle==
-        @name           RunescapeWiki darkmode
+        @name           RunescapeWiki darkmode wikia edition
         @description    ${pkg.description}
         @namespace      https://github.com/CephHunter
         @version        ${pkg.version}
@@ -98,7 +98,7 @@ gulp.task('clean', function() {
     //----- User js file -----//
     var userjsHeaderMsg = 
         `// ==UserScript==
-        // @name          Runescape wiki DarkMode
+        // @name          Runescape wiki DarkMode wikia edition
         // @namespace     https://github.com/CephHunter
         // @description	  ${pkg.description}
         // @author        ${pkg.author}
